@@ -1,0 +1,22 @@
+{
+  "name": "demoqafinaltask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlebVasiljev/DemoqaFinaltask.git"
+  },
+  "author": "Gleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlebVasiljev/DemoqaFinaltask/issues"
+  },
+  "homepage": "https://github.com/GlebVasiljev/DemoqaFinaltask#readme",
+  "dependencies": {
+    "cypress": "^10.3.0"
+  }
+}
